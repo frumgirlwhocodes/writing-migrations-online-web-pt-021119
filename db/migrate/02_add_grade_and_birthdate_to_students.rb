@@ -1,1 +1,1 @@
-class CreateStudents < ActiveRecord::Migration[5.1]
+class AddGrade < ActiveRecord::Migration[5.1]
